@@ -124,7 +124,6 @@ button:nth-child(20)
 body
 {
     font-family:'Open Scan',sans-serif;
-    background: rgb(150, 10, 10);
 }
 #container
 {
@@ -149,11 +148,11 @@ body
     margin-left: 15%;
     width: 13%;
     height: 13%;
-    margin: 13px;
+    margin: 14px;
     float: left;
     border-radius: 50%;
     border-width: 0;
     font-weight: bold;
-    font-size: 12px;
+    font-size: 11px;
 }
 }
